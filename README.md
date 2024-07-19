@@ -1,4 +1,5 @@
 # relay-note48
+![image](https://github.com/user-attachments/assets/e0fdbf85-05a2-4bc9-913f-5cbe6517f35d)
 
 ## 프로젝트 소개
  > 이 노트는 부스트캠프 웹,모바일 풀스텍 과정 참여자들이 함께 작성하는 릴레이 프로젝트 노트입니다! 우리는 이 프로젝트를 통해 `개발자로서의 성장`과 `습관의 변화`를 목표로 하고 있습니다.
